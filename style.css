@@ -1,0 +1,16 @@
+body{
+    padding-top: 65px;
+}
+
+footer {
+    text-align: center;
+}
+
+.navbar {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.content {
+    color: grey;
+}
