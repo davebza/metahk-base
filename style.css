@@ -5,12 +5,42 @@ body{
 footer {
     text-align: center;
 }
-
+p {
+    margin: 10em;
+    text-align: justify;
+}
+img {
+    box-shadow: 5px 5px 3px gray;
+}
 .navbar {
     background-color: black;
     color: white;
     text-align: center;
+    opacity: .85;
 }
+
 .content {
-    color: grey;
+    /*background-color: #e8e8ee;*/
+    color: #65737e;
+    padding-top: 25px;
+}
+
+.training {
+    background-color: #65737e;
+    color: white;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+}
+.card {
+    padding: 2em;
+    box-shadow: 5px 5px 3px black;
+    align-items: center;
+}
+
+.card-text {
+    color : #65737e;
+    margin: 5px;
 }
